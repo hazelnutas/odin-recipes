@@ -1,0 +1,20 @@
+
+h1 {
+    font-size: 48px;
+    font-family: "Average Sans";
+}
+
+a {
+    font-family: "Average Sans";
+    margin: 17px;
+}
+
+.recipe {
+    font-family: Besley;
+}
+
+.links {
+    background-color: antiquewhite;
+    font-size: 30px;
+}
+
